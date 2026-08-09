@@ -8,7 +8,7 @@
 
 直接打开：
 
-**https://dong205934.github.io/wavelab-3d/**
+**https://denishlab.github.io/wavelab-3d/**
 
 推荐使用电脑端最新版 Chrome 或 Edge 浏览器。网页不需要注册账号，也不需要安装软件。
 
@@ -57,4 +57,3 @@ wavelab-3d/
 ## 作者
 
 Denish
-
